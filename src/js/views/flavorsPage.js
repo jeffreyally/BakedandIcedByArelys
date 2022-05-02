@@ -10,20 +10,20 @@ export const FlavorsPage = () => {
             fontSize:'3rem'}}><i>OUR FLAVORS</i></p>
             <br></br>
             
-            <span style={{fontSize:'2.25rem',fontFamily:'Bebas Neue, cursive'}}><i>Chocolate Chip</i></span>
-            <p style={{fontFamily:'Roboto sans-serif',fontSize:'1.2rem'}}>The American Classic - crisp on the outside, perfectly chewy on the inside and overloaded with gooey chocolate chips. So yummy!</p>
+            <span style={{fontSize:'2.25rem',fontFamily:'Bebas Neue, cursive'}}><i>Classic Vanilla Sugar Cookie </i></span>
+            <p style={{fontFamily:'Roboto sans-serif',fontSize:'1.2rem'}}>A familiar time honored sweet vanilla flavor, sugary and soft with each bite.</p>
 
-            <span style={{fontSize:'2.25rem',fontFamily:'Bebas Neue, cursive'}}><i>Nutella Swirl</i></span>
-            <p style={{fontFamily:'Roboto sans-serif',fontSize:'1.2rem'}}>Our delicious chocolate chip cookie base, minus the chips, with heath bar candy added for crunch and swirled with Nutella for a perfect twist on the classic.</p>
+            <span style={{fontSize:'2.25rem',fontFamily:'Bebas Neue, cursive'}}><i>Strawberry Cheesecake Sugar Cookie </i></span>
+            <p style={{fontFamily:'Roboto sans-serif',fontSize:'1.2rem'}}>A sweet take on a strawberry cheesecake, taste hints of cream cheese and graham cracker with lots of strawberry flavor and chunks  of freeze dried strawberries.</p>
             <br></br>
-            <span style={{fontSize:'2.25rem',fontFamily:'Bebas Neue, cursive'}}><i>Captain Crunch</i></span>
-            <p style={{fontFamily:'Roboto sans-serif',fontSize:'1.2rem'}}>Inspired by the popular cereal, our delicious buttery cookie base is mixed with a whole box of Captain Crunch to create the ultimate throwback to childhood. Sweet, simple and nostalgic.</p>
+            <span style={{fontSize:'2.25rem',fontFamily:'Bebas Neue, cursive'}}><i>Chocolate Sugar Cookies </i></span>
+            <p style={{fontFamily:'Roboto sans-serif',fontSize:'1.2rem'}}>A rich and sweet chocolate taste in a soft sugary cookie, will kind of remind you of a brownie.</p>
             <br></br>
-            <span style={{fontSize:'2.25rem',fontFamily:'Bebas Neue, cursive'}}><i>Lemon-Poppyseed White Chocolate Chip</i></span>
-            <p style={{fontFamily:'Roboto sans-serif',fontSize:'1.2rem'}}>A rich buttery cookie dough flavored with lemon zest and poppy seeds added for texture. White Chocolate Chips add sweetness to this surprise flavor combination.</p>
+            <span style={{fontSize:'2.25rem',fontFamily:'Bebas Neue, cursive'}}><i>Cookies and Cream Sugar Cookies </i></span>
+            <p style={{fontFamily:'Roboto sans-serif',fontSize:'1.2rem'}}>A soft and creamy sugar cookie with chunks of Oreo cookies making for one flavorful bite after another.</p>
             <br></br>
-            <span style={{fontSize:'2.25rem',fontFamily:'Bebas Neue, cursive'}}><i>Coconut Macaroon</i></span>
-            <p style={{fontFamily:'Roboto sans-serif',fontSize:'1.2rem'}}>A soft coconut-vanilla interior is encased in a baked to perfection crisp exterior. For Coconut Lovers and non-lovers alike.</p>
+            <span style={{fontSize:'2.25rem',fontFamily:'Bebas Neue, cursive'}}><i>Lemon Sugar Cookies </i></span>
+            <p style={{fontFamily:'Roboto sans-serif',fontSize:'1.2rem'}}>A citrusy and sweet cookie making every bite feel so refreshing and light in your mouth.</p>
 
 
 
