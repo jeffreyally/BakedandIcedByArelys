@@ -41,8 +41,8 @@ export const Footer = () => {
          
         <h5 class="text-uppercase mb-4" style={{fontFamily:' Bubblegum Sans, cursive'}}>Business hours</h5>
   
-  <table class="table  text-yellow">
-    <tbody class="font-weight-normal">
+  <table class="table" style={{borderColor:'#F7AEF8'}} >
+    <tbody class="font-weight-normal" >
       <tr>
       <td  style={{fontFamily:'Roboto, sans-serif'}}>Monday to Friday</td>
       <td style={{fontFamily:'Roboto, sans-serif'}} >8 AM - 1 PM</td>
