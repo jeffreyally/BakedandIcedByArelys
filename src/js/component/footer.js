@@ -7,7 +7,7 @@ export const Footer = () => {
 	return(
 
 		
-<footer class="text-center text-lg-start bg-light text-muted  m-0">
+<footer class="text-center text-lg-start bg-light  m-0" >
   
  
     
@@ -15,7 +15,7 @@ export const Footer = () => {
       <span>Get connected with us on social networks:</span>
     </div>
      */}
-<section class="bg-info">
+<section  style={{ backgroundColor: '#F7AEF8' }}>
     <div class="container text-center ">
       
       <div class="row pt-3">
@@ -27,7 +27,7 @@ export const Footer = () => {
 						<div style={{ display: 'flex', flexDirection: 'column' }}>
             <div><img src={Logo} style={{maxWidth:'100%',height:'6rem'}}/></div>
 							<p class='BakedAndIced' style={{ fontFamily: ' Bebas Neue, cursive' }}>Baked + Iced</p>
-							<p class='ByArelys' style={{ fontFamily: 'Great Vibes, cursive', textAlign: 'center' }}>By Arelys</p>
+							<p class='ByArelys' style={{ fontFamily: 'Bebas Neue, cursive', textAlign: 'center' }}>By Arelys</p>
 						</div>
           </div>
         </div>

@@ -12,7 +12,7 @@ export const Navbar = () => {
 					<a class="navbar-brand" href="#">
 						<div style={{ display: 'flex', flexDirection: 'column' }}>
 							<p class='BakedAndIced' style={{ fontFamily: ' Bebas Neue, cursive' }}>Baked + Iced</p>
-							<p class='ByArelys' style={{ fontFamily: 'Great Vibes, cursive', textAlign: 'center' }}>By Arelys</p>
+							<p class='ByArelys' style={{ fontFamily: 'Bebas Neue, cursive', textAlign: 'center' }}>By Arelys</p>
 						</div>
 
 					</a>
@@ -68,7 +68,7 @@ export const Navbar = () => {
 
 
 					</div>
-					
+
 
 
 				</div>
