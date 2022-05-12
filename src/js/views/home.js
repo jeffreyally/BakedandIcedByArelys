@@ -1,6 +1,6 @@
 import React, { useContext } from "react";
 import { Context } from "../store/appContext";
-import rigoImageUrl from "../../img/rigo-baby.jpg";
+
 import "../../styles/home.css";
 import springURL from "../../img/spring.jpeg";
 import springFlowers from "../../img/springflowers.jpeg"
@@ -58,34 +58,21 @@ export const Home = () => {
 			</div>
 
 
-{/* <br></br>
-			<p class="text-center" style={{fontFamily:'Bubblegum Sans, cursive',
-            fontSize:'3rem'}}><i>CHECK OUT OUR DESIGNS</i></p>
-			<br></br>
-			<HomePageCookieCarousel/>
-
-
-			
-			
-			<h3><span style={{ color: '#B388EB' }}>B388EB floral lavender</span>,
+{/* <h3><span style={{ color: '#B388EB' }}>B388EB floral lavender</span>,
 				<span style={{ color: '#F7AEF8' }}>F7AEF8 plum something</span>,
 				<span style={{ color: '#FDC5F5' }}> FDC5F5cotton candy</span>,
 			</h3> */}
 		
 
-			{/* <p>
-				This boilerplate comes with lots of documentation:{" "}
-				<a href="https://github.com/4GeeksAcademy/react-flask-hello/tree/95e0540bd1422249c3004f149825285118594325/docs">
-					Read documentation
-				</a>
-			</p> */}
+			
 
 		</div >
-
-		<div className="container">
-			<br></br>
+		<br></br>
 		<hr/>
 		<br></br>
+
+		<div className="container">
+			
 		<p class="text-center" style={{fontFamily:'Bubblegum Sans, cursive',
             fontSize:'3rem'}}><i>CHECK OUT OUR COOKIES</i></p>
 			<br></br>
