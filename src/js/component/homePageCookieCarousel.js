@@ -18,7 +18,7 @@ export const HomePageCookieCarousel = () => {
 
 								<div class="col-12 d-flex justify-content-center ">
 									<img src={springFlowers}class="d-block" alt="..."
-										style={{ maxWidth: '100%', height: '65vh', borderStyle:'solid', borderColor:'black' }} />
+										style={{ maxWidth: '100%', height: '60vh', borderStyle:'solid', borderColor:'black' }} />
 								</div>
 
 							</div>

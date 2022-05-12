@@ -17,69 +17,74 @@ export const Home = () => {
 	const { store, actions } = useContext(Context);
 
 	return (
-<>
-		<div className="container mt-4">
-			<div className="row">
+		<>
+			<div className="container mt-4">
+				<div className="row">
 
-				<div className="col-12 col-md-6 mb-1"  >
+					<div className="col-12 col-md-6 mb-1"  >
 
-					<p className='didYouKnowTitle'style={{ fontFamily: 'Londrina Solid, cursive',  textAlign: 'center' }}>Did you know?</p>
+						<p className='didYouKnowTitle' style={{ fontFamily: 'Londrina Solid, cursive', textAlign: 'center' }}>Did you know?</p>
 
-					<p className='didYouKnowText'style={{
-						fontFamily: 'Londrina Solid, cursive', 
-						fontWeight: '300', textAlign: 'center'
-					}}>National Cookie Day is <s>December 4th.</s> Haha, yeah right.</p>
+						<p className='didYouKnowText' style={{
+							fontFamily: 'Londrina Solid, cursive',
+							fontWeight: '300', textAlign: 'center'
+						}}>National Cookie Day is <s>December 4th.</s> Haha, yeah right.</p>
 
-					<br class="d-none d-lg-inline"></br>
+						<br class="d-none d-lg-inline"></br>
 
-					<p className='didYouKnowText' style={{
-						fontFamily: 'Londrina Solid, cursive', 
-						fontWeight: '300', textAlign: 'center'
-					}}>National Cookie Day is when you're having a bad day, when you're looking to cheat on your diet, when the Heat win, con su cafecito en la mañana, etc.</p>
+						<p className='didYouKnowText' style={{
+							fontFamily: 'Londrina Solid, cursive',
+							fontWeight: '300', textAlign: 'center'
+						}}>National Cookie Day is when you're having a bad day, when you're looking to cheat on your diet, when the Heat win, con su cafecito en la mañana, etc.</p>
 
 
-
-				</div>
-
-				<div className="col-12 col-md-6 mb-1">
-					<div className="row">
-						<div className="col">
-
-							<img src={fulllogo} style={{ maxWidth: '100%', }} />
-
-						</div>
-						
 
 					</div>
-					
+
+					<div className="col-12 col-md-6 mb-1">
+						<div className="row">
+							<div className="col">
+
+								<img src={fulllogo} style={{ maxWidth: '100%', }} />
+
+							</div>
 
 
+						</div>
+
+
+
+					</div>
 				</div>
-			</div>
 
 
-{/* <h3><span style={{ color: '#B388EB' }}>B388EB floral lavender</span>,
+				{/* <h3><span style={{ color: '#B388EB' }}>B388EB floral lavender</span>,
 				<span style={{ color: '#F7AEF8' }}>F7AEF8 plum something</span>,
 				<span style={{ color: '#FDC5F5' }}> FDC5F5cotton candy</span>,
 			</h3> */}
-		
 
-			
 
-		</div >
-		<br></br>
-		<hr/>
-		<br></br>
 
-		<div className="container">
-			
-		<p class="text-center" style={{fontFamily:'Bubblegum Sans, cursive',
-            fontSize:'3rem'}}><i>CHECK OUT OUR COOKIES</i></p>
+
+			</div >
 			<br></br>
-			<HomePageCookieCarousel/>
+			<hr />
 			<br></br>
-		</div>
-		
+
+			<div className="container">
+
+				<p class="text-center" style={{
+					fontFamily: 'Bubblegum Sans, cursive',
+					fontSize: '3rem'
+				}}><i>CHECK OUT OUR COOKIES</i></p>
+				<br></br>
+				<HomePageCookieCarousel />
+				<br></br>
+			</div>
+			<br></br>
+			<br></br>
+			<br></br>
+
 		</>
 
 	);
