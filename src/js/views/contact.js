@@ -18,7 +18,7 @@ export const Contact = () => {
         <div class="col-10 col-md-5 d-flex justify-content-center p-0" >
 
           <div class="image">
-            <img src={FullLogo} class="img-fluid" />
+            <img src={FullLogo} class="img-fluid" style={{height:'100%'}} />
           </div>
 
 

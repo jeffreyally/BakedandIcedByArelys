@@ -81,7 +81,7 @@ export const Footer = () => {
         
       </div>
       <div class="text-center p-4">
-  <i class="fas fa-copyright"style={{color:'darkblue'}}></i>&nbsp;
+  <i class="fas fa-copyright"style={{color:'black'}}></i>&nbsp;
     <span style={{fontWeight:'bold'}}> 2022 Copyright: BAKED AND ICED BY ARELYS</span>
   </div>
     </div>
